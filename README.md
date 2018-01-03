@@ -2,8 +2,7 @@ CIFAR10 Hands-On
 ----------------
 
 This hands-on was prepared for one of my presentations that took place on Computer
- Vision mini-course at "Gradient" student's orgranization at Gdańsk University of
- Technology, Poland.
+ Vision's mini-course at student's orgranization called "Gradient" (Gdańsk University of Technology).
 
 Before running this hands-on, please recall the materials from previous meetings,
  especially my "Introduction to CNNs", which you can find in the root directory
