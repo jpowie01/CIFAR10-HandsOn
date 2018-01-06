@@ -26,7 +26,7 @@ What do you need to install to run this hands-on?
 
 1. Install all needed packages.
 
- - into local environment (in order not to mess with global Python packages):
+ - ...into local environment (in order not to mess with global Python packages):
 
 ```bash
 $ virtualenv -p python3 venv
@@ -34,7 +34,7 @@ $ . venv/bin/activate
 (venv) $ pip install -r requirements.txt
 ```
 
- - ... **OR** into global Python packages:
+ - ...**OR** into global Python packages:
 
 ```bash
 $ pip install -r requirements.txt
