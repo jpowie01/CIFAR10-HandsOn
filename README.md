@@ -24,7 +24,7 @@ What do you need to install to run this hands-on?
 
 **Steps to follow:**
 
-1. Install all needed packages.
+1. Install all needed packages...
 
  - ...into local environment (in order not to mess with global Python packages):
 
@@ -37,7 +37,7 @@ $ . venv/bin/activate
  - ...**OR** into global Python packages:
 
 ```bash
-$ pip install -r requirements.txt
+$ pip3 install -r requirements.txt
 ```
 
 2. Install PyTorch (it's needed to do separately):
@@ -60,6 +60,13 @@ Once your environment is ready, it's time to open Jupyter Notebook
 (venv) $ venv/bin/jupyter notebook
 ```
 
-Once your browser will open by itself, select the notebook called `CIFAR10 Hands-on.ipynb`
- and follow the instructions inside of it.
+...or if you installed the packages globally:
 
+```bash
+$ jupyter notebook
+```
+
+Once your browser will open by itself, select the notebook called `CIFAR10 Hands-on.ipynb`
+ and follow the instructions inside of it. There is also a separate notebook with all
+ completed steps called `CIFAR10 Hands-on [COMPLETED].ipynb`. Don't hesitate to look into
+ this one if you want to check the answers :)
