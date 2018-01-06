@@ -24,13 +24,20 @@ What do you need to install to run this hands-on?
 
 **Steps to follow:**
 
-1. Install all needed packages into local environment (in order not to
-   mess with global Python packages):
+1. Install all needed packages.
+
+ - into local environment (in order not to mess with global Python packages):
 
 ```bash
 $ virtualenv -p python3 venv
 $ . venv/bin/activate
 (venv) $ pip install -r requirements.txt
+```
+
+ - ... **OR** into global Python packages:
+
+```bash
+$ pip install -r requirements.txt
 ```
 
 2. Install PyTorch (it's needed to do separately):
