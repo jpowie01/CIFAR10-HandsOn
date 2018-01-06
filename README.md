@@ -10,7 +10,7 @@ Before running this hands-on, please recall the materials from previous meetings
  of the repository. HTML version with all the GIFs is available
  [here](https://mega.nz/#%21H4IEnZKJ%21so0Czkp8lcLWCt0o3O912WnKZBFjkvZFeJG23kITpig).
 
-## Prequisites
+## Prerequisites
 
 What do you need to install to run this hands-on?
 
