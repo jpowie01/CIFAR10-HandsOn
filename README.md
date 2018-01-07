@@ -72,6 +72,6 @@ Once your browser will open by itself, select the notebook called `CIFAR10 Hands
  this one if you want to check the answers :)
 
 **IMPORTANT:** Please run first two code blocks before the meeting! These will check your
- environments for installed packages and download the CIFAR10 dataset (~60MB) from
+ environments for installed packages and download the CIFAR10 dataset (~160MB) from
  the Internet. Internet connection on our university may be weak, so do this prior the
  meeting!
