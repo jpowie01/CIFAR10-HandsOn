@@ -70,3 +70,8 @@ Once your browser will open by itself, select the notebook called `CIFAR10 Hands
  and follow the instructions inside of it. There is also a separate notebook with all
  completed steps called `CIFAR10 Hands-on [COMPLETED].ipynb`. Don't hesitate to look into
  this one if you want to check the answers :)
+
+**IMPORTANT:** Please run first two code blocks before the meeting! These will check your
+ environments for installed packages and download the CIFAR10 dataset (~60MB) from
+ the Internet. Internet connection on our university may be weak, so do this prior the
+ meeting!
